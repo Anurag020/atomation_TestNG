@@ -1,0 +1,37 @@
+03:29:18.391 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\DELL\eclipse-workspace\Test_NG_Project\testng.xml"
+03:29:19.787 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\Test_NG_Project\testng.xml
+
+03:29:20.049 [TestNG-tests-1]DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.9.2
+03:29:20.087 [TestNG-tests-4]DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.9.2
+03:29:20.098 [TestNG-tests-3]DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.9.2
+03:29:20.102 [TestNG-tests-2]DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.9.2
+03:29:20.956 [TestNG-tests-2]DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=132 in cache (valid until 04:18:00 08/02/2025 IST)
+03:29:20.964 [TestNG-tests-2]DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome132=132.0.6834.159 in cache (valid until 01:09:01 09/02/2025 IST)
+03:29:20.960 [TestNG-tests-1]DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=132 in cache (valid until 04:18:00 08/02/2025 IST)
+03:29:20.969 [TestNG-tests-3]DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=132 in cache (valid until 04:18:00 08/02/2025 IST)
+03:29:20.978 [TestNG-tests-3]DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome132=132.0.6834.159 in cache (valid until 01:09:01 09/02/2025 IST)
+03:29:20.980 [TestNG-tests-1]DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome132=132.0.6834.159 in cache (valid until 01:09:01 09/02/2025 IST)
+03:29:20.980 [TestNG-tests-2]INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+03:29:20.982 [TestNG-tests-1]INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+03:29:20.986 [TestNG-tests-3]INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+03:29:21.032 [TestNG-tests-2]DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 132.0.6834.159 found in cache
+03:29:21.038 [TestNG-tests-2]INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+03:29:21.038 [TestNG-tests-1]DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 132.0.6834.159 found in cache
+03:29:21.046 [TestNG-tests-1]INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+03:29:21.051 [TestNG-tests-3]DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 132.0.6834.159 found in cache
+03:29:21.053 [TestNG-tests-3]INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+03:29:21.062 [TestNG-tests-4]DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=132 in cache (valid until 04:18:00 08/02/2025 IST)
+03:29:21.068 [TestNG-tests-4]DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome132=132.0.6834.159 in cache (valid until 01:09:01 09/02/2025 IST)
+03:29:21.069 [TestNG-tests-4]INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+03:29:21.112 [TestNG-tests-4]DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 132.0.6834.159 found in cache
+03:29:21.114 [TestNG-tests-4]INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+03:29:34.575 [TestNG-tests-1]DEBUG tests.LoginTest - Browser got launched
+03:29:41.164 [TestNG-tests-1]DEBUG tests.LoginTest - Navigated to application URL
+03:29:42.767 [TestNG-tests-1]DEBUG tests.LoginTest - Clicked on login option
+03:29:46.582 [TestNG-tests-1]DEBUG tests.LoginTest - Email addressed got entered
+03:29:46.742 [TestNG-tests-1]DEBUG tests.LoginTest - Password got entered
+03:29:47.672 [TestNG-tests-1]DEBUG tests.LoginTest - Clicked on Login Button
+03:29:47.783 [TestNG-tests-1]DEBUG tests.LoginTest - User got logged in
+03:29:47.783 [TestNG-tests-1]INFO  tests.LoginTest - Login Test Passed
+03:29:48.323 [TestNG-tests-1]DEBUG tests.LoginTest - Browser got closed
