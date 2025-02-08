@@ -14,7 +14,7 @@ public class TwoTest extends Base {
 	
 	@Test
 	public void testTwo() throws IOException, InterruptedException {
-		
+		System.out.println("User Three has updated this code");
 		driver = initializeDriver();
 		driver.get("https://tutorialsninja.com/demo/");
 		Thread.sleep(2000);
